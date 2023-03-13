@@ -1,9 +1,5 @@
-// CAR DEALERSHIP
-/*
-poti sa:
--introduci o masina
--vezi detaliile unei masini
-*/
+// CAR DEALERSHIP - David-Leonard Vilvoi
+
 
 #include <iostream>
 #include <string>
